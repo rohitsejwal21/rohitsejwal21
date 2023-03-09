@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rohitsejwal21
-- 👀 I’m interested in Python | Machine Learning | SQL 
-- 🌱 I’m currently working on Deep Learning
+- 👀 I’m interested in SQL | Python | Machine Learning
 
 <!---
 rohitsejwal21/rohitsejwal21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
